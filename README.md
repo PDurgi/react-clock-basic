@@ -1,7 +1,7 @@
 # React Clock
 
 This is a fork of this clock app that includes deployments for Azure Kubernetes Service and Docker.
-I have deployed this to my own Azure kubernetes cluster. I have turned off the AKS cluster since mine is a student account. So you can only see the images or clone it and use it for your own deployment.
+I have deployed this to my own Azure kubernetes cluster. I have turned off the AKS cluster since mine is a student account. So you can only see the images or clone it  from https://github.com/jaydestro/react-clock-basic and use it for your own deployment.
 
 
 
