@@ -29,7 +29,8 @@ az acr create --resource-group $NAME--name $NAMEacr --sku Basic --admin-enabled 
 az acr build  --registry $NAMEacr --image react-clock-basic:v1 .
 ```
 
-change the image name in deployment file : image: aksreg018.azurecr.io/react-clock-basic:v1
+change the image name in deployment file : image: aksreg018.azurecr.io/react-clock-basic:v1 
+replace : aksreg018 to your won Azure container registry
 
 kubectl apply -f .\deployment.yaml
 kubectl apply -f .\loadbalancer.yaml
