@@ -14,7 +14,7 @@ spec:
       spec:
         containers:
         - name: react-clock-basic
-          image: <>.azurecr.io/react-clock-basic:v1
+          image: aksreg018.azurecr.io/react-clock-basic:v1
           imagePullPolicy: Always
           readinessProbe:
             httpGet:
