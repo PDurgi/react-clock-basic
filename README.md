@@ -35,10 +35,10 @@ kubectl apply -f .\deployment.yaml
 kubectl apply -f .\loadbalancer.yaml
 kubectl get services
 ```
-![Pick the external ip and paste in browser] (https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/manifests_to_run.png?sp=r&st=2023-12-03T05:14:58Z&se=2023-12-03T13:14:58Z&spr=https&sv=2022-11-02&sr=b&sig=5xV9gQG2cXOoUiUwr9cReO3TOAPxkVRgyaxW40Ebe6o%3D)
+![Pick the external ip and paste in browser](https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/manifests_to_run.png?sp=r&st=2023-12-03T05:14:58Z&se=2023-12-03T13:14:58Z&spr=https&sv=2022-11-02&sr=b&sig=5xV9gQG2cXOoUiUwr9cReO3TOAPxkVRgyaxW40Ebe6o%3D)
 
 
-![APP running on browser] (https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/App%20on%20browser.png?sp=r&st=2023-12-03T05:16:38Z&se=2023-12-03T13:16:38Z&spr=https&sv=2022-11-02&sr=b&sig=BFQZWCVi3Jy6LY1OgURtvlxIGR4pnKoBXnq2rCwCArk%3D)
+![APP running on browser](https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/App%20on%20browser.png?sp=r&st=2023-12-03T05:16:38Z&se=2023-12-03T13:16:38Z&spr=https&sv=2022-11-02&sr=b&sig=BFQZWCVi3Jy6LY1OgURtvlxIGR4pnKoBXnq2rCwCArk%3D)
 
 
 ## Authors
