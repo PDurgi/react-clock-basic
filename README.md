@@ -34,7 +34,7 @@ change the image name in deployment file : image: aksreg018.azurecr.io/react-clo
 kubectl apply -f .\deployment.yaml
 kubectl apply -f .\loadbalancer.yaml
 kubectl get services
-
+```
 ![Pick the external ip and paste in browser] (https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/manifests_to_run.png?sp=r&st=2023-12-03T05:14:58Z&se=2023-12-03T13:14:58Z&spr=https&sv=2022-11-02&sr=b&sig=5xV9gQG2cXOoUiUwr9cReO3TOAPxkVRgyaxW40Ebe6o%3D)
 
 
@@ -43,6 +43,6 @@ kubectl get services
 
 ## Authors
 
-* **Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
+***Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
 ** Modified by - Pooja Durgi to deploy to Azure Portal **
 
