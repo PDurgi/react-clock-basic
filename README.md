@@ -4,7 +4,9 @@ This is a fork of this clock app that includes deployments for Azure Kubernetes 
 I have deployed this to my own Azure kubernetes cluster. I have turned off the AKS cluster since mine is a student account. So you can only see the images or clone it and use it for your own deployment.
 
 
-![Alt Text]([Image URL](https://drive.google.com/file/d/1ApUarxAojfgp-dNnUg3crk29dvEdab4f/view))
+
+![AKS Cluster](https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/AKS_cluster.png)
+
 
 
 [Add other instructions as needed.]
