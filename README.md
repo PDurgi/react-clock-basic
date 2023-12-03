@@ -5,7 +5,7 @@ I have deployed this to my own Azure kubernetes cluster. I have turned off the A
 
 
 
-![AKS Cluster](https://imgur.com/0S8Kuzx)
+![AKS Cluster](https://cs210032001def6664e.blob.core.windows.net/pdurgiimages/AKS_cluster.png?sp=r&st=2023-12-03T04:42:49Z&se=2023-12-03T12:42:49Z&spr=https&sv=2022-11-02&sr=b&sig=eQG5KVe5x2ELVjAkDSaAxF0tQLpGGcn5tM%2BjT5rGMsY%3D)
 
 
 
